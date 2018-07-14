@@ -3,8 +3,8 @@ import static Division.divide
 import static Subtract.subtract
 import static Sum.sum
 
-def name = "Kevin"
-int programmingPoints = 109
+def name = "Gus"
+int programmingPoints = 110
 
 println "Hello ${name}"
 println "${name} has at least ${programmingPoints} programming points."
